@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 😀
+I am new at this and now i am trying to learn a new thing so thank you fore reading this
 <!--
 **Rexial23/Rexial23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
